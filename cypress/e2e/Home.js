@@ -5,6 +5,6 @@ describe('suite',()=>{
 
     it('first test',()=>{
 
-        cy.visit("https://www.google.com/")
+        cy.visit("https://www.google.co/")
     })
 })
